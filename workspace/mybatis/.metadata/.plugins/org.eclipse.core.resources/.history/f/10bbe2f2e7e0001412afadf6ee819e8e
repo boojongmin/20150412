@@ -1,0 +1,7 @@
+package com.school.bankjava.vo;
+
+public class Users {
+	private long id;
+	private String userId;
+
+}
