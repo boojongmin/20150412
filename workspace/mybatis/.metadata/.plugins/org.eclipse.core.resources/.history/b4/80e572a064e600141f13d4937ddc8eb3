@@ -1,0 +1,12 @@
+package com.school.bankjava.test.interfacetest;
+
+import java.util.Collection;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		Collection<String> collection = new Collection<String>(){
+			
+		};
+	}
+}

@@ -1,0 +1,11 @@
+package com.school.bankjava.vo;
+
+public class AccountsVo {
+	
+	private long id;
+	private long users_id;
+	private String account_number;
+	private int amount;
+	
+
+}

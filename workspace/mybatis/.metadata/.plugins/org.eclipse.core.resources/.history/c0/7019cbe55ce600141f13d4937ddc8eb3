@@ -1,0 +1,23 @@
+package com.school.bankjava.test.template;
+
+import org.apache.ibatis.session.SqlSession;
+
+import com.school.bankjava.dao.BankJavaDao;
+import com.school.bankjava.vo.UsersVo;
+
+public abstract class AbstractSessionTemplate {
+	
+	protected abstract void doIt();
+	
+	public void work(){
+		try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+			dao = new BankJavaDao(sqlSession);
+			usersVo = dao.selectUserVoIfNullSelectLastuser(null);
+			
+			UsersVo vo = new UsersVo();
+			vo.setUserId(BOOJONGMIN);
+			usersVo2 = dao.selectUserVoIfNullSelectLastuser(vo);
+		}
+	}
+
+}

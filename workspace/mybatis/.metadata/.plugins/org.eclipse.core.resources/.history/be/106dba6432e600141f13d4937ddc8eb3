@@ -1,0 +1,16 @@
+package com.school.bankjava.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class BankJavaTest {
+	
+	@Test
+	public void test01(){
+		System.out.println("실행");
+		assertFalse( 1 == 1 );
+	}
+	
+
+}

@@ -1,0 +1,26 @@
+package com.school.bankjava.test.template;
+
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+
+import com.school.bankjava.dao.BankJavaDao;
+import com.school.bankjava.mybatis.FactoryManager;
+import com.school.bankjava.vo.UsersVo;
+
+public abstract class AbstractSessionTemplate {
+	private SqlSessionFactory sqlSessionFactory = FactoryManager.sqlSessionFactory;
+	
+	protected abstract void doIt();
+	
+	public void work(){
+		try(SqlSession sqlSession = sqlSessionFactory.openSession(true)){
+			BankJavaDao dao = new BankJavaDao(sqlSession);
+			usersVo = dao.selectUserVoIfNullSelectLastuser(null);
+			
+			UsersVo vo = new UsersVo();
+			vo.setUserId(BOOJONGMIN);
+			usersVo2 = dao.selectUserVoIfNullSelectLastuser(vo);
+		}
+	}
+
+}

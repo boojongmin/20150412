@@ -1,0 +1,8 @@
+package com.school.bankjava.test.interfacetest;
+
+public class Main {
+	
+	public static void main(String[] args) {
+
+	}
+}

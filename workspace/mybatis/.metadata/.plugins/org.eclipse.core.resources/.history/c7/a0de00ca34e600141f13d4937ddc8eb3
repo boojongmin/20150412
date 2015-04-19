@@ -1,0 +1,18 @@
+package com.school.bankjava.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class BankJavaTest {
+	
+	@Test
+	public void 마이바티스의커넥션을정상적으로가져온다_널이아니기를기대한다(){
+		//given(초기화)
+		
+		//when(테스트할 대상 실행)
+		
+		//then(assert)
+		
+	}
+}

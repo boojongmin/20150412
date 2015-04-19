@@ -1,0 +1,5 @@
+package com.school.bankjava.mybatis;
+
+public class FactoryManager {
+
+}

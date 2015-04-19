@@ -1,0 +1,16 @@
+package com.school.bankjava.test.template;
+
+import com.school.bankjava.vo.UsersVo;
+
+public class SelectUserVoIfNull extends AbstractSessionTemplate{
+
+	@Override
+	protected void doIt() {
+		usersVo = dao.selectUserVoIfNullSelectLastuser_choose(null);
+		
+		UsersVo vo = new UsersVo();
+		vo.setUserId(BOOJONGMIN);
+		usersVo2 = dao.selectUserVoIfNullSelectLastuser_choose(vo);		
+	}
+
+}

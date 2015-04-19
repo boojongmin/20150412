@@ -1,0 +1,9 @@
+1429405070404	Delete element
+1429407882796	Extract method 'getSqlSessionFactory'
+1429412408093	Convert local variable 'sqlSessionFactory' to field
+1429418162994	Extract constant 'BOOJONGMIN'
+1429424180790	Convert local variable 'usersVo1' to field
+1429424257292	Rename field 'usersVo1'
+1429425197388	Convert local variable 'dao' to field
+1429427056099	Delete element
+1429427802912	Rename package 'com.school.bankjava.test.iterfacetest'

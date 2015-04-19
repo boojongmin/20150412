@@ -1,10 +1,19 @@
 package com.school.bankjava.vo;
 
+import java.util.List;
+
 public class UsersVo {
 	private long id;
 	private String userId;
 	private String name;
-		
+	private List<AccountsVo> accountsList;
+	
+	public List<AccountsVo> getAccountsList() {
+		return accountsList;
+	}
+	public void setAccountsList(List<AccountsVo> accountsList) {
+		this.accountsList = accountsList;
+	}
 	public long getId() {
 		return id;
 	}

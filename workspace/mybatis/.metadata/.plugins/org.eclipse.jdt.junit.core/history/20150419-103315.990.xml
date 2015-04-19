@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BankJavaTest.마이바티스의커넥션을정상적으로가져온다_널이아니기를기대한다2" project="bankjava" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="마이바티스의커넥션을정상적으로가져온다_널이아니기를기대한다2" classname="com.school.bankjava.test.BankJavaTest" time="0.0"/>
+</testrun>

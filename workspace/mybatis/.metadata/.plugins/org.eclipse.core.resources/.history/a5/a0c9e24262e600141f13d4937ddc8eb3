@@ -1,0 +1,11 @@
+package com.school.bankjava.test.template;
+
+
+public class SelectUserVoIfNull extends AbstractSessionTemplate{
+
+	@Override
+	protected Object doIt() {
+		return sqlSession.selectUserVoIfNullSelectLastuser_choose(null); 
+	}
+
+}

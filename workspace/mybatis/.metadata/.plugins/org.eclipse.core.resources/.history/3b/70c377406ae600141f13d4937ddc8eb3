@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+<mapper namespace="com.school.bankjava.mapper">
+	<select id="selectUser" resultType="hashmap">
+		<!-- select * from Blog where id = #{id} -->		
+		SELECT * FROM USERS WHERE USERID = #{userId}		
+	</select>
+	
+	<select id="selectUserVo" resultType="UsersVo">
+		SELECT * FROM USERS WHERE USERID = #{userId}		
+	</select>
+	
+	<select id="selectAllUserVo" resultType="UsersVo">
+		SELECT * FROM USERS
+	</select>
+	
+	<insert id="insertUserVo" parameterType="UsersVo">
+		INSERT INTO USERS(USERID, NAME) VALUES (#{userId}, #{name})
+	</insert>
+	
+	<select id="makeUser" parameterType="string" statementType="CALLABLE">
+		{ call makeUser( #{userId} ) }
+	</select>
+	
+	<select id="totalCount" resultType="int">
+		select sum(cnt) from (
+			select count(*) cnt from users
+			union all
+			select count(*) cnt from accounts
+			union all
+			select count(*) cnt from account_details
+		) A
+	</select>
+	
+	<select id="selectUserVoIfNullSelectLastuser" parameterType="UsersVo" resultType="UsersVo">
+		SELECT * FROM USERS 
+		<if test="userId != null and userId != '' ">
+			WHERE USERID = #{userId} 
+		</if>
+		<if test="userId == null or userId == '' ">
+			WHERE ID = (SELECT MAX(ID) FROM USERS)
+		</if>				
+	</select>
+	
+	<select id="selectUserVoIfNullSelectLastuser_choose"  parameterType="UsersVo" resultType="UsersVo">
+		SELECT * FROM USERS
+		<choose>
+			<when test="userId != null and userId != '' ">
+				WHERE USERID = #{userId} 
+			</when>
+			<otherwise>
+				WHERE ID = (SELECT MAX(ID) FROM USERS)
+			</otherwise>
+		</choose>
+		<!-- 
+			swich(number)
+				case 1: .... 
+				case 2: ....
+				default : ;
+		 -->
+	</select>
+	
+	
+	
+</mapper>

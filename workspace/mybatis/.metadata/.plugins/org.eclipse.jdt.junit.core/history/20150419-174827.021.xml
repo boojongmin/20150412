@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BankJavaTest.사용자ResultMap" project="bankjava" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testcase name="사용자ResultMap" classname="com.school.bankjava.test.BankJavaTest" time="0.127">
+    <error>org.apache.ibatis.exceptions.PersistenceException: &#13;
+### Error querying database.  Cause: org.apache.ibatis.reflection.ReflectionException: Could not set property 'userid' of 'class com.school.bankjava.vo.UsersVo' with value 'boojongmin' Cause: org.apache.ibatis.reflection.ReflectionException: There is no setter for property named 'userid' in 'class com.school.bankjava.vo.UsersVo'&#13;
+### The error may exist in com/school/bankjava/mapper/SchoolMapper.xml&#13;
+### The error may involve com.school.bankjava.mapper.selectUsersVoResultMap&#13;
+### The error occurred while handling results&#13;
+### SQL: select A.id users_id, A.userid users_userid,        A.name users_name,          B.id accounts_id, B.users_id accounts_users_id,          B.account_number accounts_account_number,          B.amount accounts_amount   from users A join accounts B   on A.id = B.users_id   where A.id = 1&#13;
+### Cause: org.apache.ibatis.reflection.ReflectionException: Could not set property 'userid' of 'class com.school.bankjava.vo.UsersVo' with value 'boojongmin' Cause: org.apache.ibatis.reflection.ReflectionException: There is no setter for property named 'userid' in 'class com.school.bankjava.vo.UsersVo'&#13;
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:26)&#13;
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:111)&#13;
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:102)&#13;
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:66)&#13;
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:61)&#13;
+	at com.school.bankjava.dao.BankJavaDao.selectUsersVoResultMap(BankJavaDao.java:54)&#13;
+	at com.school.bankjava.test.BankJavaTest.사용자ResultMap(BankJavaTest.java:134)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.lang.reflect.Method.invoke(Method.java:483)&#13;
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)&#13;
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)&#13;
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+Caused by: org.apache.ibatis.reflection.ReflectionException: Could not set property 'userid' of 'class com.school.bankjava.vo.UsersVo' with value 'boojongmin' Cause: org.apache.ibatis.reflection.ReflectionException: There is no setter for property named 'userid' in 'class com.school.bankjava.vo.UsersVo'&#13;
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.setBeanProperty(BeanWrapper.java:175)&#13;
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.set(BeanWrapper.java:57)&#13;
+	at org.apache.ibatis.reflection.MetaObject.setValue(MetaObject.java:133)&#13;
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.applyPropertyMappings(DefaultResultSetHandler.java:371)&#13;
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.getRowValue(DefaultResultSetHandler.java:756)&#13;
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.handleRowValuesForNestedResultMap(DefaultResultSetHandler.java:724)&#13;
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.handleRowValues(DefaultResultSetHandler.java:267)&#13;
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.handleResultSet(DefaultResultSetHandler.java:239)&#13;
+	at org.apache.ibatis.executor.resultset.DefaultResultSetHandler.handleResultSets(DefaultResultSetHandler.java:153)&#13;
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:60)&#13;
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:73)&#13;
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:60)&#13;
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:267)&#13;
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:137)&#13;
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:96)&#13;
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:77)&#13;
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:108)&#13;
+	... 28 more&#13;
+Caused by: org.apache.ibatis.reflection.ReflectionException: There is no setter for property named 'userid' in 'class com.school.bankjava.vo.UsersVo'&#13;
+	at org.apache.ibatis.reflection.Reflector.getSetInvoker(Reflector.java:372)&#13;
+	at org.apache.ibatis.reflection.MetaClass.getSetInvoker(MetaClass.java:174)&#13;
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.setBeanProperty(BeanWrapper.java:167)&#13;
+	... 44 more&#13;
+&#13;
+</error>
+  </testcase>
+</testrun>

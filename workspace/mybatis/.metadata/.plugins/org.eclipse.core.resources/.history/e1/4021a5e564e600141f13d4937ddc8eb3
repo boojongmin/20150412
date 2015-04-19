@@ -1,0 +1,13 @@
+package com.school.bankjava.test.interfacetest;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+public class Main extends A{
+	
+	public static void main(String[] args) {
+		A a = new Main();
+		Collection<String> collection = new ArrayList<String>();
+		
+	}
+}

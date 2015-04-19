@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BankJavaTest" project="bankjava" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.school.bankjava.test.BankJavaTest" time="0.058">
+    <testcase name="마이바티스의SqlSessionFactory를가져온다_널이아니기를기대한다" classname="com.school.bankjava.test.BankJavaTest" time="0.057"/>
+  </testsuite>
+</testrun>

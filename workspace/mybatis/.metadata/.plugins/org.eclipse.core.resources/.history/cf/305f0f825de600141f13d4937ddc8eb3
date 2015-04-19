@@ -1,0 +1,5 @@
+package com.school.bankjava.test.template;
+
+public class SelectUserVoIfNull extends AbstractSessionTemplate{
+
+}

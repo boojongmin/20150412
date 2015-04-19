@@ -1,0 +1,15 @@
+package com.school.bankjava.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class BankJavaTest {
+	
+	@Test
+	public void 테스트(){
+		
+	}
+	
+
+}

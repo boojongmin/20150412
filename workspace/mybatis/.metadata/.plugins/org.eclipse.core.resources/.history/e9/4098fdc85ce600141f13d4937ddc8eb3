@@ -1,0 +1,7 @@
+package com.school.bankjava.test.template;
+
+public abstract class AbstractSessionTemplate {
+	
+	protected abstract void doIt();
+
+}

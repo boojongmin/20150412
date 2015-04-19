@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+<mapper namespace="com.school.bankjava.mapper">
+	<select id="selectUser" resultType="hashmap">
+		<!-- select * from Blog where id = #{id} -->		
+		SELECT * FROM USERS WHERE USERID = #{userId}		
+	</select>
+	
+	<select id="selectUserVo" resultType="UsersVo">
+		SELECT * FROM USERS WHERE USERID = #{userId}		
+	</select>
+	
+	<select id="selectAllUserVo" resultType="UsersVo">
+		SELECT * FROM USERS
+	</select>
+	
+	<insert id="insertUserVo" parameterType="UsersVo">
+		INSERT INTO USERS(USERID, NAME) VALUES (#{userId}, #{name})
+	</insert>
+	
+	<select id="makeUser" parameterType="string" statementType="CALLABLE">
+		{ call makeUser( #{userId} ) }
+	</select>
+	
+	<select id="totalCount" resultType="int">
+		select sum(cnt) from (
+			select count(*) cnt from users
+			union all
+			select count(*) cnt from accounts
+			union all
+			select count(*) cnt from account_details
+		) A
+	</select>
+	
+	<select id="selectUserVoIfNullSelectLastuser" parameterType="UsersVo" resultType="UsersVo">
+		SELECT * FROM USERS 
+		<if test="userId != null and userId != '' ">
+			WHERE USERID = #{userId} 
+		</if>
+		<if test="userId == null or userId == '' ">
+			WHERE ID = (SELECT MAX(ID) FROM USERS)
+		</if>				
+	</select>
+	
+	<select id="selectUserVoIfNullSelectLastuser_choose"  parameterType="UsersVo" resultType="UsersVo">
+		SELECT * FROM USERS
+		<choose>
+			<when test="userId != null and userId != '' ">
+				WHERE USERID = #{userId} 
+			</when>
+			<otherwise>
+				WHERE ID = (SELECT MAX(ID) FROM USERS)
+			</otherwise>
+		</choose>
+		<!-- 
+			swich(number)
+				case 1: .... 
+				case 2: ....
+				default : ;
+		 -->
+	</select>
+	
+	<select id="selectUserVoTrim" parameterType="UsersVo" resultType="UsersVo">
+		SELECT * FROM USERS
+		<trim prefix="WHERE" prefixOverrides="AND|OR">
+			<if test="id != null and id > 0">AND id = #{id}</if>
+			<if test="userId != null">AND userid = #{userId}</if>
+			<if test="name != null">AND name = #{name}</if>
+		</trim>
+	</select> 
+	
+	<insert id="insertAccountDetails" parameterType="collection">
+		insert into ACCOUNT_DETAILS(accounts_id, type, amount)
+		values 
+		<foreach collection="list" open="( " close=" )" separator=" ), (" item="vo">
+			#{vo.accounts_id}, #{vo.type}, #{vo.amount}
+		</foreach>
+	</insert>
+	
+	<resultMap id="UsersVoMap" type="com.school.bankjava.vo.UsersVo">
+		<id property="id" column="users_id" />
+		<result property="userid" column="users_userid"/>
+		<result property="name" column="users_name" />
+		<collection property="accountsList" ofType="com.school.bankjava.vo.AccountsVo">
+			<id property="id" column="accounts_id" />
+			<result property="userid" column="users_userid"/>	
+		</collection>
+	</resultMap>
+	
+	
+	
+	
+	<select id="selectUsersVoResultMap" resultMap="UsersVoMap">
+		select A.id users_id, A.userid users_userid, 
+			   A.name users_name,
+		       B.id accounts_id, B.users_id accounts_users_id,
+		       B.account_number accounts_account_number,
+		       B.amount accounts_amount
+		from users A join accounts B
+		on A.id = B.users_id
+		where A.id = 1
+	</select>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</mapper>

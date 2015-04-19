@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Rerun com.school.bankjava.test.BankJavaTest.사용자조회_파라메터가널인경우마지막에가입된사용자조회" project="bankjava" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="사용자조회_파라메터가널인경우마지막에가입된사용자조회" classname="com.school.bankjava.test.BankJavaTest" incomplete="true"/>
+</testrun>

@@ -1,0 +1,43 @@
+package com.school.bankjava.test;
+
+import static org.junit.Assert.*;
+
+import java.io.IOException;
+import java.io.InputStream;
+
+import org.apache.ibatis.io.Resources;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
+import org.junit.Test;
+
+import com.school.bankjava.mybatis.FactoryManager;
+
+public class BankJavaTest {
+	
+	private SqlSessionFactory sqlSessionFactory = FactoryManager.sqlSessionFactory;
+
+	@Test
+	public void 마이바티스의SqlSessionFactory를가져온다_널이아니기를기대한다_그리고_싱글턴패턴체크(){
+		SqlSessionFactory sqlSessionFactory2 = FactoryManager.sqlSessionFactory;
+		//when(테스트할 대상 실행)
+		//then(assert)
+		assertNotNull(sqlSessionFactory);
+		assertTrue(sqlSessionFactory == sqlSessionFactory2);
+	}
+	
+	@Test
+	public void 프로시저호출확인_각각의테이블에서하나씩데이터가증가됨을확인한다(){
+		//given
+		int beforeTotalCount;
+		try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+		}
+		beforeTotalCount = sqlSession.selectOne("com.school.bankjava.mapper.totalCount");
+		//int totalCount = 
+		//then
+		
+		//when
+	}
+
+	
+}

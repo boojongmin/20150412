@@ -1,0 +1,13 @@
+package com.school.bankjava.test.interfacetest;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Vector;
+
+public class Main{
+	
+	public static void main(String[] args) {
+		Collection<String> collection1 = new ArrayList<String>();
+		Collection<String> collection2 = new Vector<String>();
+	}
+}

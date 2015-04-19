@@ -1,0 +1,21 @@
+package com.school.bankjava.test.template;
+
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+
+import com.school.bankjava.dao.BankJavaDao;
+import com.school.bankjava.mybatis.FactoryManager;
+
+public abstract class AbstractSessionTemplate {
+	private SqlSessionFactory sqlSessionFactory = FactoryManager.sqlSessionFactory;
+	
+	protected abstract Object doIt();
+	
+	public Object work(){
+		try(SqlSession sqlSession = sqlSessionFactory.openSession(true)){
+			BankJavaDao dao = new BankJavaDao(sqlSession);
+			doIt();
+		}
+	}
+
+}

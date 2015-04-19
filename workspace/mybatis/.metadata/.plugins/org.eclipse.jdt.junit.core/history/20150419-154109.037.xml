@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BankJavaTest" project="bankjava" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="com.school.bankjava.test.BankJavaTest" time="0.303">
+    <testcase name="사용자조회_trim" classname="com.school.bankjava.test.BankJavaTest" time="0.194"/>
+    <testcase name="마이바티스의SqlSessionFactory를가져온다_널이아니기를기대한다_그리고_싱글턴패턴체크" classname="com.school.bankjava.test.BankJavaTest" time="0.0"/>
+    <testcase name="사용자조회_파라메터가널인경우마지막에가입된사용자조회_choose" classname="com.school.bankjava.test.BankJavaTest" time="0.001"/>
+    <testcase name="사용자조회_파라메터가널인경우마지막에가입된사용자조회" classname="com.school.bankjava.test.BankJavaTest" time="0.003"/>
+    <testcase name="프로시저호출확인_각각의테이블에서하나씩데이터가증가됨을확인한다" classname="com.school.bankjava.test.BankJavaTest" time="0.104"/>
+  </testsuite>
+</testrun>
