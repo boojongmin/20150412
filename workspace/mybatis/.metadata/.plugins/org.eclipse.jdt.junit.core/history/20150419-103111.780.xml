@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="BankJavaTest.테스트" project="bankjava" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testcase name="테스트" classname="com.school.bankjava.test.BankJavaTest" time="0.0"/>
-</testrun>

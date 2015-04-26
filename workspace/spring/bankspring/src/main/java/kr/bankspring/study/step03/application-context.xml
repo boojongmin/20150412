@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.1.xsd">
+	
+	<bean id="fireBallBullet" class="kr.bankspring.study.step03.FireBallBullet" />
+	<bean id="iceStormBullet" class="kr.bankspring.study.step03.IceStormBullet" />
+	<bean id="lightningBallBullet" class="kr.bankspring.study.step03.LightningBallBullet" />
+	
+	<bean id="fireBallMagician" class="kr.bankspring.study.step03.Magician" 
+								init-method="birth" lazy-init="true"
+								destroy-method="die">
+		<constructor-arg ref="fireBallBullet" />
+	</bean>
+	<bean id="iceStormMagician" class="kr.bankspring.study.step03.Magician"
+								init-method="birth" lazy-init="true"
+								destroy-method="die">
+		<constructor-arg ref="iceStormBullet" />
+	</bean>
+	<bean id="lightningBallMagician" class="kr.bankspring.study.step03.Magician"
+								init-method="birth" lazy-init="true"
+								destroy-method="die">
+		<constructor-arg ref="lightningBallBullet" />
+	</bean>
+	
+
+</beans>

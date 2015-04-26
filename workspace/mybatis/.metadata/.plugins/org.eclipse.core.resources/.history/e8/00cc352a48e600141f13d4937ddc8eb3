@@ -1,9 +1,0 @@
-package com.school.bankjava.dao;
-
-import org.apache.ibatis.session.SqlSession;
-
-public class BankJavaDao {
-	private SqlSession sqlSession;
-	
-
-}

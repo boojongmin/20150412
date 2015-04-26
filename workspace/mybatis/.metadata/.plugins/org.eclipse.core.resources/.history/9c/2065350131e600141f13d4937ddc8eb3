@@ -1,9 +1,0 @@
-package com.school.bankjava.test;
-
-public class BankJavaTest {
-	
-	public void test01(){
-		System.out.println("실행");
-	}
-
-}

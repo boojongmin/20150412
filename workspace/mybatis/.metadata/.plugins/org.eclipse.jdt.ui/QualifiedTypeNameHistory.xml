@@ -2,11 +2,33 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.io.Resources"/>
-<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactoryBuilder"/>
-<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
+<fullyQualifiedTypeName name="com.school.bankjava.mybatis.FactoryManager"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="com.school.bankjava.vo.UsersVo"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
+<fullyQualifiedTypeName name="com.school.bankjava.dao.BankJavaDao"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="com.sun.istack.internal.NotNull"/>
+<fullyQualifiedTypeName name="org.hamcrest.core.IsNot"/>
+<fullyQualifiedTypeName name="org.hamcrest.core.IsNull"/>
+<fullyQualifiedTypeName name="com.school.bankjava.test.template.AbstractSessionTemplate"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.school.bankjava.vo.AccountDetailsVo"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.Deprecated"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="org.apache.commons.dbcp.BasicDataSource"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.transaction.TransactionFactory"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.transaction.jdbc.JdbcTransactionFactory"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.mapping.Environment"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactoryBuilder"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.annotations.Insert"/>
+<fullyQualifiedTypeName name="com.school.bankjava.vo.UsersVo"/>
+<fullyQualifiedTypeName name="com.school.bankspring.step01.FireBallBullet"/>
+<fullyQualifiedTypeName name="com.school.bankspring.step01.IceStormBullet"/>
 </qualifiedTypeNameHistroy>

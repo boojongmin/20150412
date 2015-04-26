@@ -2756,3 +2756,659 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-c
 2015-04-19 17:51:20,297 [Worker-368] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
 2015-04-19 17:51:20,298 [Worker-368] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-04-19 17:51:20,298 [Worker-368] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 09:54:50,889 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 09:54:50,892 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 09:54:50,894 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 09:54:50,894 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:01:55,120 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:01:55,120 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:01:55,123 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:01:55,123 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:02:14,382 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:02:14,382 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:02:14,383 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:02:14,383 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:06:08,603 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:06:08,603 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:06:08,604 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:06:08,605 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:06:16,148 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:06:16,149 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:06:16,150 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:06:16,150 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:06:19,817 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:06:19,817 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:06:19,818 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:06:19,818 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:06:21,850 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:06:21,850 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:06:21,851 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:06:21,851 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:06:29,304 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:06:29,305 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:06:29,306 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:06:29,306 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:08:50,513 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.school:bankjava:0.0.1-SNAPSHOT @ E:\dev\workspace\mybatis\bankjava\pom.xml.
+2015-04-26 10:08:51,654 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.pom
+2015-04-26 10:08:51,973 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.pom
+2015-04-26 10:08:52,258 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar
+2015-04-26 10:08:53,078 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar
+2015-04-26 10:08:53,690 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:08:53,690 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:08:53,692 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:08:53,692 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:08:55,045 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:08:55,045 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:08:55,046 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:08:55,046 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:10:07,400 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:10:07,401 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:10:07,402 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:10:07,402 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:10:45,065 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:10:45,065 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:10:45,066 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:10:45,066 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:14:29,043 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4-sources.jar
+2015-04-26 10:14:29,925 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4-sources.jar
+2015-04-26 10:14:30,013 [Worker-22] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-dbcp:commons-dbcp:1.4
+2015-04-26 10:14:30,233 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:14:30,234 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:14:30,235 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:14:30,235 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:15:27,788 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:15:27,788 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:15:27,789 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:15:27,789 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:15:29,171 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:15:29,172 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:15:29,173 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:15:29,173 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:15:35,645 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:15:35,646 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:15:35,647 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:15:35,647 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:15:37,092 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:15:37,093 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:15:37,094 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:15:37,094 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:15:50,114 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:15:50,114 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:15:50,115 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:15:50,115 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:16:20,162 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:16:20,162 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:16:20,164 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:16:20,164 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:16:21,419 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:16:21,419 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:16:21,420 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:16:21,420 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:17:00,034 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:17:00,034 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:17:00,035 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:17:00,035 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:17:18,247 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:17:18,247 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:17:18,249 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:17:18,249 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:17:35,814 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:17:35,814 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:17:35,815 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:17:35,815 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:17:37,826 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:17:37,826 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:17:37,827 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:17:37,827 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:18:58,348 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:18:58,348 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:18:58,349 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:18:58,350 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:19:01,642 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:19:01,642 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:19:01,643 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:19:01,643 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:19:38,180 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:19:38,180 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:19:38,181 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:19:38,181 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:20:09,005 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:20:09,005 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:20:09,006 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:20:09,006 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:20:38,468 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:20:38,468 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:20:38,469 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:20:38,469 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:21:25,785 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:21:25,785 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:21:25,786 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:21:25,786 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:21:27,599 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:21:27,599 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:21:27,600 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:21:27,601 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:23:32,939 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:23:32,939 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:23:32,940 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:23:32,940 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:23:50,901 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:23:50,901 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:23:50,902 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:23:50,902 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:23:57,222 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:23:57,222 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:23:57,223 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:23:57,223 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:24:08,473 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:24:08,473 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:24:08,474 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:24:08,475 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:24:10,800 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:24:10,800 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:24:10,801 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:24:10,801 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:24:27,210 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:24:27,211 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:24:27,212 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:24:27,212 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 10:26:10,383 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:26:10,383 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 10:26:10,384 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 10:26:10,384 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:05:46,568 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:05:46,569 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:05:46,570 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:05:46,570 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:07:26,224 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:07:26,224 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:07:26,225 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:07:26,225 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:08:29,795 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:08:29,795 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:08:29,797 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:08:29,797 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:09:27,367 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:09:27,368 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:09:27,368 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:09:27,369 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:09:37,579 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:09:37,580 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:09:37,581 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:09:37,581 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:09:39,821 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:09:39,821 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:09:39,822 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:09:39,823 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:10:24,050 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:10:24,051 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:10:24,052 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:10:24,052 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:10:27,480 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:10:27,480 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:10:27,482 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:10:27,482 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:10:28,546 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:10:28,547 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:10:28,548 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:10:28,548 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:10:48,519 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:10:48,519 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:10:48,520 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:10:48,520 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:11:22,446 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:11:22,446 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:11:22,447 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:11:22,447 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:11:27,271 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:11:27,271 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:11:27,272 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:11:27,272 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:11:46,585 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:11:46,585 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:11:46,587 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:11:46,587 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:11:53,361 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:11:53,361 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:11:53,362 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:11:53,362 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:11:54,636 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:11:54,636 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:11:54,637 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:11:54,637 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:12:01,470 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:12:01,470 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:12:01,472 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:12:01,472 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:12:12,298 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:12:12,299 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:12:12,300 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:12:12,300 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:12:15,142 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:12:15,142 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:12:15,144 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:12:15,144 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:12:20,688 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:12:20,688 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:12:20,689 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:12:20,689 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:14:55,990 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:14:55,990 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:14:55,992 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:14:55,992 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:15:13,200 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:15:13,200 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:15:13,201 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:15:13,201 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:15:29,663 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:15:29,664 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:15:29,665 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:15:29,665 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:15:40,832 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:15:40,832 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:15:40,833 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:15:40,834 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:16:38,094 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:16:38,094 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:16:38,095 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:16:38,095 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:17:07,112 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:17:07,112 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:17:07,113 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:17:07,113 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:17:10,292 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:17:10,292 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:17:10,294 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:17:10,294 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:17:56,306 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:17:56,307 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:17:56,308 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:17:56,308 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:18:22,012 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:18:22,012 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:18:22,013 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:18:22,013 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:18:24,841 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:18:24,842 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:18:24,843 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:18:24,843 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:18:42,619 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:18:42,619 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:18:42,620 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:18:42,620 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:19:38,676 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:19:38,676 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:19:38,677 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:19:38,677 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:20:35,205 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:20:35,206 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:20:35,207 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:20:35,207 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:20:58,273 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:20:58,273 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:20:58,274 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:20:58,274 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:21:31,320 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:21:31,320 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:21:31,321 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:21:31,321 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:21:50,277 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:21:50,277 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:21:50,278 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:21:50,278 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:22:18,367 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:18,368 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:22:18,368 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:18,369 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:22:21,487 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:21,487 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:22:21,488 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:21,488 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:22:22,562 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:22,562 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:22:22,563 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:22,563 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:22:23,839 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:23,839 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:22:23,840 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:23,841 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:22:44,571 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:44,571 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:22:44,572 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:44,572 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:22:47,536 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:47,537 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:22:47,538 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:22:47,538 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:23:03,987 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:23:03,987 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:23:03,988 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:23:03,988 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:24:13,504 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:24:13,505 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:24:13,506 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:24:13,506 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:24:30,095 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:24:30,096 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:24:30,097 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:24:30,097 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:24:32,072 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:24:32,072 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:24:32,074 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:24:32,074 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:24:34,520 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:24:34,520 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:24:34,521 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:24:34,521 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:24:52,120 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:24:52,120 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:24:52,121 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:24:52,121 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:25:13,900 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:25:13,900 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:25:13,901 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:25:13,901 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:25:27,481 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:25:27,481 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:25:27,482 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:25:27,482 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:25:34,389 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:25:34,389 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:25:34,390 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:25:34,390 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:25:35,416 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:25:35,416 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:25:35,418 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:25:35,418 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:25:40,721 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:25:40,721 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:25:40,722 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:25:40,723 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:26:12,494 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:26:12,494 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:26:12,496 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:26:12,496 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:26:16,298 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:26:16,298 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:26:16,299 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:26:16,299 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:26:54,025 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:26:54,025 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:26:54,026 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:26:54,026 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:26:59,176 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:26:59,176 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:26:59,177 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:26:59,177 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:43:35,886 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:43:35,887 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:43:35,888 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:43:35,888 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:43:56,361 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:43:56,361 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:43:56,362 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:43:56,362 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:44:15,612 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:44:15,612 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:44:15,613 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:44:15,614 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:44:29,663 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:44:29,664 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:44:29,665 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:44:29,665 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:44:34,694 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:44:34,695 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:44:34,696 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:44:34,696 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:44:54,534 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:44:54,534 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:44:54,535 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:44:54,535 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:45:23,712 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:45:23,712 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:45:23,713 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:45:23,713 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:45:36,896 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:45:36,896 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:45:36,898 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:45:36,898 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:45:43,753 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:45:43,753 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:45:43,754 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:45:43,754 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:45:50,326 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:45:50,327 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:45:50,328 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:45:50,328 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:46:03,236 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:03,236 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:46:03,237 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:03,237 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:46:10,515 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:10,516 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:46:10,517 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:10,517 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:46:19,466 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:19,466 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:46:19,467 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:19,467 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:46:26,323 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:26,323 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:46:26,326 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:26,326 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:46:44,693 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:44,693 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:46:44,694 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:44,695 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:46:53,834 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:53,834 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:46:53,837 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:46:53,837 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:47:01,758 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:01,758 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:47:01,759 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:01,760 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:47:08,263 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:08,263 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:47:08,264 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:08,264 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:47:14,146 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:14,147 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:47:14,148 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:14,148 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:47:17,030 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:17,030 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:47:17,031 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:17,031 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:47:27,239 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:27,240 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:47:27,241 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:27,241 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:47:35,283 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:35,283 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:47:35,284 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:35,284 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:47:45,227 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:45,228 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:47:45,229 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:47:45,229 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:48:10,298 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:48:10,298 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:48:10,299 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:48:10,299 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:52:27,997 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:52:27,998 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:52:27,999 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:52:28,000 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:52:37,791 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:52:37,791 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:52:37,792 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:52:37,792 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:52:47,328 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:52:47,329 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:52:47,330 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:52:47,331 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:52:50,834 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:52:50,835 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:52:50,835 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:52:50,836 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:52:51,908 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:52:51,908 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:52:51,909 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:52:51,909 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:53:13,925 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:13,926 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:53:13,926 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:13,926 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:53:19,209 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:19,209 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:53:19,210 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:19,211 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:53:20,284 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:20,284 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:53:20,286 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:20,286 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:53:41,422 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:41,422 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:53:41,423 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:41,423 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:53:45,828 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:45,828 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:53:45,829 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:45,829 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:53:58,808 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:58,808 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:53:58,810 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:53:58,810 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:54:06,442 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:54:06,442 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:54:06,443 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:54:06,443 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:54:20,762 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:54:20,763 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:54:20,764 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:54:20,764 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:54:44,995 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:54:44,996 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:54:44,997 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:54:44,997 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 11:54:46,211 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:54:46,211 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 11:54:46,212 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 11:54:46,212 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:02:30,752 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:02:30,752 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:02:30,753 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:02:30,753 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:02:50,563 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:02:50,563 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:02:50,564 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:02:50,564 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:03:26,421 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:03:26,421 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:03:26,423 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:03:26,423 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:03:44,422 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:03:44,422 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:03:44,423 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:03:44,424 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:04:06,772 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:04:06,772 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:04:06,773 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:04:06,773 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:04:47,239 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:04:47,239 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:04:47,240 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:04:47,240 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:05:02,162 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:05:02,163 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:05:02,164 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:05:02,164 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:05:35,781 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:05:35,782 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:05:35,784 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:05:35,784 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:05:52,110 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:05:52,110 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:05:52,111 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:05:52,111 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:06:09,021 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:06:09,021 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:06:09,023 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:06:09,023 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:06:49,907 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:06:49,907 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:06:49,908 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:06:49,908 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:06:57,061 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:06:57,061 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:06:57,062 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:06:57,062 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:07:06,002 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:07:06,002 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:07:06,004 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:07:06,004 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:07:10,071 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:07:10,072 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:07:10,073 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:07:10,073 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:07:32,043 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:07:32,043 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:07:32,044 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:07:32,044 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:07:39,758 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:07:39,759 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:07:39,761 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:07:39,761 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:08:38,286 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:08:38,286 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:08:38,287 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:08:38,287 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:08:40,430 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:08:40,430 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:08:40,431 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:08:40,432 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:08:45,461 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:08:45,461 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:08:45,462 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:08:45,462 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:09:45,932 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:09:45,933 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:09:45,934 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:09:45,934 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:10:01,385 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:10:01,385 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:10:01,387 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:10:01,387 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:10:05,321 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:10:05,321 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:10:05,323 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:10:05,323 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:10:08,467 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:10:08,467 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:10:08,468 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:10:08,468 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:10:11,229 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:10:11,230 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:10:11,231 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:10:11,231 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:11:06,144 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:11:06,144 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:11:06,145 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:11:06,145 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:11:15,444 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:11:15,444 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:11:15,445 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:11:15,445 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:11:25,800 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:11:25,800 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:11:25,801 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:11:25,801 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:11:33,852 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:11:33,852 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:11:33,853 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:11:33,854 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources
+2015-04-26 12:13:39,853 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:13:39,854 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\main\resources
+2015-04-26 12:13:39,855 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-26 12:13:39,855 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dev\workspace\mybatis\bankjava\src\test\resources

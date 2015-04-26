@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="BankJavaTest" project="bankjava" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.school.bankjava.test.BankJavaTest" time="0.171">
-    <testcase name="사용자조회_trim" classname="com.school.bankjava.test.BankJavaTest" time="0.171"/>
-  </testsuite>
-</testrun>
