@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+ "-//Hibernate/Hibernate Mapping DTD//EN"
+ "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="kr.bankspring.study.step09.UsersVo" table="USERS2">
+		<meta attribute="class-description">사용자 정보</meta>
+		<id name="id" type="long" column="ID">
+			<generator class="native" />
+		</id>
+		<property name="userId" column="USERID" type="string" unique="true" />
+		<property name="name" column="NAME" type="string" />
+		<set name="accountList" table="ACCOUNTS2">
+			<key>
+				<column name="USERS_ID" not-null="true" />
+			</key>
+			<one-to-many  class="kr.bankspring.study.step09.AccountsVo" />
+		</set>
+	</class>
+
+	<class name="kr.bankspring.study.step09.AccountsVo" table="ACCOUNTS2">
+		<meta attribute="class-description">계정정보</meta>
+		<id name="id" type="long" column="ID"> <generator class="native" /> </id>
+		<many-to-one name="usersVo" class="kr.bankspring.study.step09.UsersVo"  >
+			<column name="USERS_ID" not-null="true"  />
+		</many-to-one>
+		<property name="accountNumber" column="ACCOUNT_NUMBER" type="string" unique="true" />
+		<property name="amount" column="AMOUNT" type="int" />
+	</class>
+</hibernate-mapping> 
