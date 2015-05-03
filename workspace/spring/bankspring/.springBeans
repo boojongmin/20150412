@@ -9,6 +9,7 @@
 	<configs>
 		<config>src/main/java/kr/bankspring/study/step02/application-context.xml</config>
 		<config>src/main/java/kr/bankspring/study/step03/application-context.xml</config>
+		<config>src/main/java/kr/bankspring/study/step05/clazz/application-context.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>

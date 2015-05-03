@@ -22,6 +22,4 @@
 								destroy-method="die">
 		<constructor-arg ref="lightningBallBullet" />
 	</bean>
-	
-
 </beans>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+ "-//Hibernate/Hibernate Mapping DTD//EN"
+ "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+  <class name="kr.bankspring.study.step07.clazz.UsersVo" table="USERS2">
+    <meta attribute="class-description">사용자 정보</meta>
+    <id name="id" type="long" column="ID"> <generator class="native" /> </id>
+    <property name="userid" column="USERID" type="string" unique="true" />
+    <property name="name" column="NAME" type="string" />
+  </class>
+</hibernate-mapping>
