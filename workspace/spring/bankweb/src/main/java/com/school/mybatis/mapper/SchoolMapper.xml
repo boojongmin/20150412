@@ -109,5 +109,10 @@
 		SELECT * FROM USERS
 	</select>
 	
+	<insert id="createUser" parameterType="UsersVo">
+		INSERT INTO USERS(userid, name)
+		VALUE(#{userId}, #{name})
+	</insert>
+	
 	
 </mapper>

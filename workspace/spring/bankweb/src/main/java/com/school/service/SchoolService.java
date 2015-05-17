@@ -17,6 +17,13 @@ public class SchoolService {
   public List<UsersVo> getUserList() {
     return schoolDao.getUserList();
   }
+
+  public void createUser(String userid, String name) {
+    UsersVo usersVo = new UsersVo();
+    usersVo.setUserId(userid);
+    usersVo.setName(name);
+    schoolDao.createUser(usersVo);
+  }
   
   
   

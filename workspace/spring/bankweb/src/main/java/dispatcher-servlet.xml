@@ -8,30 +8,53 @@
 
 	<context:annotation-config />
 	<context:component-scan base-package="com.school" />
-
+	<mvc:annotation-driven />
+	
+	
+	
+	<bean class="org.springframework.context.support.ResourceBundleMessageSource"
+		id="messageSource">
+		<property name="basename" value="messages" />
+	</bean>
+	
+	
+	<bean class="org.springframework.web.servlet.view.ContentNegotiatingViewResolver">
+        <property name="mediaTypes">
+            <map>
+                <entry key="json" value="application/json"/>
+            </map>
+        </property>
+        <property name="defaultViews">
+            <list>
+                <bean class="org.springframework.web.servlet.view.json.MappingJackson2JsonView" />
+            </list>
+        </property>
+    </bean>
+	
+	
+	
 	<bean
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		<property name="prefix" value="/WEB-INF/views/" />
 		<property name="suffix" value=".jsp" />
 	</bean>
 
-	<!-- <bean id="schoolService" class="com.school.service.SchoolService">
-		<constructor-arg ref="schoolDao"/>
-	</bean> -->
+	<!-- <bean id="schoolService" class="com.school.service.SchoolService"> 
+		<constructor-arg ref="schoolDao"/> </bean> -->
 
 
-	<!-- <bean id="schoolDao" class="com.school.dao.SchoolDao">
-		<constructor-arg ref="sqlSessionTemplate"/>
-	</bean> -->
+	<!-- <bean id="schoolDao" class="com.school.dao.SchoolDao"> <constructor-arg 
+		ref="sqlSessionTemplate"/> </bean> -->
 
 
 	<bean id="sqlSessionTemplate" class="org.mybatis.spring.SqlSessionTemplate">
-		<constructor-arg ref="sqlSessionFactory"/>
+		<constructor-arg ref="sqlSessionFactory" />
 	</bean>
 
 	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
 		<property name="dataSource" ref="dataSource" />
-		<property name="configLocation" value="classpath:com/school/mybatis/mybatis-config.xml"/>
+		<property name="configLocation"
+			value="classpath:com/school/mybatis/mybatis-config.xml" />
 	</bean>
 
 	<bean id="dataSource"

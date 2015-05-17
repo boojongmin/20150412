@@ -1,11 +1,12 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"
     import="java.util.*, com.school.vo.*"
+    isELIgnored="false"
     %>
-<% 
- String contextPath = request.getContextPath();
-%>    
-<% List<UsersVo> list = (List)request.getAttribute("list"); %>
+<%@ taglib prefix="form"  uri="http://www.springframework.org/tags/form" %>
+
+    
+<% String contextPath = request.getContextPath(); %>    
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,7 +74,7 @@ body {
 			<div class="col-md-offset-2 col-md-8">
 				<div class="page-header">
 					<h1>
-						메뉴1 <small>목록</small>
+						메뉴1 <small>사용자 추가</small>
 					</h1>
 				</div>
 			</div>
@@ -90,55 +91,34 @@ body {
 
 		<div class="row">
 			<div class="col-md-offset-2 col-md-8">
-				<table class="table table-striped table-hover">
-					<thead>
-						<tr>
-							<th>SEQ</th>
-							<th>이름</th>
-							<th>아이디</th>
-						</tr>
-					</thead>
-					<tbody>
-<%
-	for(int i=0; i < list.size(); i++){
-	  UsersVo vo = list.get(i);
-%>
-						<tr>
-							<td><%= i+1 %></td>
-							<td><%=vo.getName() %></td>
-							<td>
-								<a href="<%=contextPath%>/springmvc/user/view?id=<%=vo.getId()%>">
-									<%=vo.getUserId() %>
-								</a>
-							</td>
-						</tr>
-<%
-	}
-%>						
-					</tbody>
-				</table>
+				<%-- <form action="<%=contextPath%>/springmvc/user/create/action" method="post">
+				  <div class="form-group">
+				    <label for="userid">사용자 ID</label>
+				    <input type="text" class="form-control" id="userid" name="userId" placeholder="아이디를 입력해주세요">
+				  </div>
+				  <div class="form-group">
+				    <label for="name">사용자명</label>
+				    <input type="text" class="form-control" id="name" name="name" placeholder="이름을 입력해주세요">
+				  </div>
+				  <button type="submit" class="btn btn-default">Submit</button>
+				</form> --%>
+				<form:form action="${pageContext.request.contextPath }/springmvc/user/create/action" 
+						method="post" 
+						modelAttribute="usersVo">
+					<div class="form-group">
+					    <label for="userid">사용자 ID</label>
+					    <form:input path="userId" cssClass="form-control" placeholder="아이디를 입력해주세요"/>
+					    <form:errors path="userId" cssStyle="color:red" element="span" />
+   				    </div>
+   				    <div class="form-group">
+					    <label for="name">사용자명</label>
+					    <form:input path="name" cssClass="form-control" placeholder="이름을 입력해주세요"/>
+					    <form:errors path="name" cssStyle="color:red" element="span" />
+					</div>
+				    <button type="submit" class="btn btn-default">Submit</button>
+				</form:form>
+				
 
-
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-md-12 text-center">
-				<nav>
-					<ul class="pagination">
-						<li><a href="#" aria-label="Previous"> <span
-								aria-hidden="true">&laquo;</span>
-						</a></li>
-						<li><a href="#">1</a></li>
-						<li><a href="#">2</a></li>
-						<li><a href="#">3</a></li>
-						<li><a href="#">4</a></li>
-						<li><a href="#">5</a></li>
-						<li><a href="#" aria-label="Next"> <span
-								aria-hidden="true">&raquo;</span>
-						</a></li>
-					</ul>
-				</nav>
 			</div>
 		</div>
 	</div>

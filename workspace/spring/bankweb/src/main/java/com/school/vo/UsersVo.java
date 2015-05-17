@@ -2,9 +2,14 @@ package com.school.vo;
 
 import java.util.List;
 
+import javax.validation.constraints.Size;
+
 public class UsersVo {
+  
 	private long id;
+	@Size(min=5, max=20, message="사용자 ID는 5~20로 입력해주세요.")
 	private String userId;
+	@Size(min=2, max=10, message="이름은 2~10로 입력해주세요.")
 	private String name;
 	private List<AccountsVo> accountsList;
 	

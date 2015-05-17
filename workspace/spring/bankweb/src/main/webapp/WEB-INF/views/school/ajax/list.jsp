@@ -60,8 +60,8 @@ body {
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
 					<li class="active"><a href="#">메뉴1</a></li>
-					<li><a href="#about">메뉴2</a></li>
-					<li><a href="#contact">메뉴3</a></li>
+					<li><a href="/bankweb/springmvc/ajax/list">목록</a></li>
+					<li><a href="/bankweb/springmvc/ajax/hello">hello</a></li>
 				</ul>
 			</div>
 			<!--/.nav-collapse -->
@@ -90,6 +90,8 @@ body {
 
 		<div class="row">
 			<div class="col-md-offset-2 col-md-8">
+			
+				<input type="button" value="ajax실행" id="ajaxBtn"/>
 				<table class="table table-striped table-hover">
 					<thead>
 						<tr>
@@ -98,23 +100,7 @@ body {
 							<th>아이디</th>
 						</tr>
 					</thead>
-					<tbody>
-<%
-	for(int i=0; i < list.size(); i++){
-	  UsersVo vo = list.get(i);
-%>
-						<tr>
-							<td><%= i+1 %></td>
-							<td><%=vo.getName() %></td>
-							<td>
-								<a href="<%=contextPath%>/springmvc/user/view?id=<%=vo.getId()%>">
-									<%=vo.getUserId() %>
-								</a>
-							</td>
-						</tr>
-<%
-	}
-%>						
+					<tbody id="listBody">
 					</tbody>
 				</table>
 
@@ -160,5 +146,35 @@ body {
 		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<!-- Include all compiled plugins (below), or include individual files as needed -->
 	<script src="<%=contextPath %>/js/bootstrap.min.js"></script>
+	
+	
+	<script>
+var ajaxData ;
+
+function ajaxBtnClick(){
+	$.ajax({
+		url: '/bankweb/springmvc/ajax/getAjaxList',
+		success : function(data, status, jqXHR){
+			for(var i=0; i < data.length; i++){
+				$('#listBody').append(
+					$('<tr></tr>')
+						.append(
+							$('<td></td>').text(data[i].id)		
+						).append(
+							$('<td></td>').text(data[i].userId)	
+						).append(
+							$('<td></td>').text(data[i].name)	
+						)
+				)	
+			}
+					
+		}
+	})
+}	
+
+$('#ajaxBtn').click(ajaxBtnClick);
+	
+	
+	</script>	
 </body>
 </html>

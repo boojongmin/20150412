@@ -51,4 +51,9 @@ public class SchoolDao {
     return sqlSession.selectList(idPrefix + "getUserList");
   }
 
+  public void createUser(UsersVo usersVo) {
+    sqlSession.insert(idPrefix + "createUser", usersVo);
+    
+  }
+
 }
